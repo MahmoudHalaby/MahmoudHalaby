@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on **flutter projects**
 
-- 🌱 I’m currently learning **flutter**
 
-- 👯 I’m looking to collaborate on **flutter**
-
-- 🤝 I’m looking for help with **flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahmoud-halaby/](https://www.linkedin.com/in/mahmoud-halaby/)
 
