@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="assets/banner.gif" alt="animated banner — security scan sweep" width="800">
+<img src="assets/banner.gif?v=2" alt="animated banner — security scan sweep" width="800">
 
 <br>
 
-<img src="assets/logo.svg" alt="Mahmoud Halaby" width="440">
+<img src="assets/logo.svg?v=2" alt="Mahmoud Halaby" width="440">
 
 # Mahmoud Halaby
 
