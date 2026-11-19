@@ -8,8 +8,6 @@
 
 <img src="assets/logo.svg?v=2" alt="Mahmoud Halaby" width="440">
 
-# Mahmoud Halaby
-
 **Software QA Engineer · Security Tester · Agentic Bug-Bounty Builder**
 
 <a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#contact">Contact</a>
