@@ -1,10 +1,10 @@
+<a name="top"></a>
+
 <div align="center">
 
 <img src="assets/banner.gif" alt="animated banner — security scan sweep" width="800">
 
 <br>
-
-<img src="assets/logo.svg" alt="Mahmoud Halaby" width="440">
 
 # Mahmoud Halaby
 
@@ -47,7 +47,7 @@
 **Ask me about**
 - Finding business-logic bugs that scanners miss
 - Root-cause analysis of live incidents
-- Building QA自动化 that catches security regressions
+- Building QA automation that catches security regressions
 - Turning a manual test process into an agentic workflow
 
 <div align="center">
