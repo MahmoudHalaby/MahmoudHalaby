@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90" role="img" aria-label="WHAT I DO">
+  <title>WHAT I DO</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="760" height="90" rx="10" fill="#0b1120"/>
+  <rect x="0" y="0" width="6" height="90" rx="3" fill="url(#g)"/>
+  <text x="30" y="62" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="700" fill="#e6edf3">02</text>
+  <text x="92" y="50" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="700" fill="url(#g)" letter-spacing="2">WHAT I DO</text>
+  <text x="94" y="74" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif"
+        font-size="14" fill="#8b949e" letter-spacing="1">Security  ·  QA  ·  Tooling</text>
+  <line x1="94" y1="80" x2="730" y2="80" stroke="url(#g)" stroke-width="1" opacity="0.5"/>
+</svg>

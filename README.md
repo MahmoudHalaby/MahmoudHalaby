@@ -10,32 +10,45 @@
 
 **Software QA Engineer · Security Tester · Agentic Bug-Bounty Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoudhalaby1-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudhalaby1/)
-[![Email](https://img.shields.io/badge/Email-mahmoudhalaby001%40gmail.com-ea4335?logo=gmail&logoColor=white)](mailto:mahmoudhalaby001@gmail.com)
-[![Cairo](https://img.shields.io/badge/%F0%9F%93%8D-Cairo%2C%20Egypt-22d3ee)](https://en.wikipedia.org/wiki/Cairo)
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-yes-16a34a?style=flat)](https://www.linkedin.com/in/mahmoudhalaby1/)
+<a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#contact">Contact</a>
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=MahmoudHalaby&label=Profile%20Views&color=22d3ee&style=for-the-badge&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/MahmoudHalaby?label=Followers&color=22d3ee&style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMahmoudHalaby&query=%24.public_repos&label=Repositories&color=22d3ee&style=for-the-badge)
+![Cairo](https://img.shields.io/badge/%F0%9F%93%8D-Cairo%2C%20Egypt-a78bfa?style=for-the-badge)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmoudhalaby1-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahmoudhalaby1/)
+[![Email](https://img.shields.io/badge/Email-mahmoudhalaby001%40gmail.com-ea4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mahmoudhalaby001@gmail.com)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-yes-16a34a?style=for-the-badge)](https://www.linkedin.com/in/mahmoudhalaby1/)
 
 </div>
 
 ---
 
-## 👋 Who I am
+<a name="about"></a>
+<img src="assets/sec-about.svg" alt="About Me" width="760">
 
-I'm a **QA and security tester with 5+ years** turning software quality into a
-security discipline. I don't just find bugs — I hunt for the ones that matter:
-**business-logic flaws, information disclosure, and API weaknesses** that carry
-real impact. I work across **web and mobile**, from the first test case to the
-root-cause analysis of a live incident.
+> [!NOTE]
+> I'm a **QA and security tester with 5+ years** turning software quality into a
+> security discipline. I don't just find bugs — I hunt for the ones that matter:
+> **business-logic flaws, information disclosure, and API weaknesses** with real
+> impact. Lately I've been building **agentic tooling for bug bounty** so mapping,
+> testing, and proof happen with repeatable rigor instead of ad-hoc poking.
 
-Lately I've been building **agentic tooling for bug bounty** — orchestrating
-specialized AI solvers so mapping, testing, and proof happen with repeatable
-rigor instead of ad-hoc poking.
+**Currently**
+- 🛠️ Building `shadowstike` — an agentic bug-bounty orchestration engine
+- 🔍 Hunting business-logic and price-manipulation flaws in production systems
+- 🧪 Testing web + mobile (iOS/Android) APIs and client behavior
 
-> _"Find what breaks, prove what matters, fix what's root."_
-
----
-
-## 📊 At a glance
+**Ask me about**
+- Finding business-logic bugs that scanners miss
+- Root-cause analysis of live incidents
+- Building QA自动化 that catches security regressions
+- Turning a manual test process into an agentic workflow
 
 <div align="center">
 
@@ -47,7 +60,8 @@ rigor instead of ad-hoc poking.
 
 ---
 
-## 🛠️ What I do
+<a name="what-i-do"></a>
+<img src="assets/sec-skills.svg" alt="What I Do" width="760">
 
 <table>
   <tr>
@@ -94,7 +108,8 @@ rigor instead of ad-hoc poking.
 
 ---
 
-## 💼 Experience
+<a name="experience"></a>
+<img src="assets/sec-experience.svg" alt="Experience" width="760">
 
 ### 🟦 Snoonu — Senior QA & Security Tester
 **02/2026 – Present**
@@ -129,9 +144,10 @@ rigor instead of ad-hoc poking.
 
 ---
 
-## 🚀 Projects
+<a name="projects"></a>
+<img src="assets/sec-projects.svg" alt="Projects" width="760">
 
-### 🤖 shadowstike — Agentic Bug-Bounty Orchestration
+### 🤖 [shadowstike](https://github.com/MahmoudHalaby/shadowstike) — Agentic Bug-Bounty Orchestration
 
 A coordinator-driven security-testing engine built on OpenCode 2. One agent plans and
 adjudicates; focused subagents do the testing; nothing becomes a finding without proof.
@@ -140,18 +156,15 @@ adjudicates; focused subagents do the testing; nothing becomes a finding without
 - **74 class playbooks** and **302 local pattern rules** across 18 packs
 - Coverage-ledger grid (endpoint × class × principal) with reason codes for every cell
 - Money-path chain synthesis, abort-safe resume, scope guard, and Burp-routed requests
-- Public repo: [MahmoudHalaby/shadowstike](https://github.com/MahmoudHalaby/shadowstike)
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **BSc in Engineering — Computers & Systems Department**
 Kafr Elsheikh University · Kafr Elsheikh, Egypt · **2016 – 2021**
 
----
-
-## 🧰 Toolbox
+### 🧰 Toolbox
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Test-ffe000?logo=portswigger)
 ![Postman](https://img.shields.io/badge/Postman-API-ff6c37?logo=postman&logoColor=white)
@@ -166,24 +179,29 @@ Kafr Elsheikh University · Kafr Elsheikh, Egypt · **2016 – 2021**
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-16a34a)
 
----
-
-## 🗣️ Languages
+### 🗣️ Languages
 
 - **Arabic** — Native
 - **English** — Professional working proficiency
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudhalaby1/)
-[![Email](https://img.shields.io/badge/Email-Send-ea4335?logo=gmail&logoColor=white)](mailto:mahmoudhalaby001@gmail.com)
-
----
+<a name="contact"></a>
+<img src="assets/sec-contact.svg" alt="Let's Talk" width="760">
 
 <div align="center">
 
-_This profile is generated and maintained with care. Feedback and collaboration welcome._
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahmoudhalaby1/)
+[![Email](https://img.shields.io/badge/Email-Send-ea4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mahmoudhalaby001@gmail.com)
+
+<br><br>
+
+_If you're reaching out about a role or a collaboration, a short note about what you're building helps._
+
+<br>
+
+<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-0b1120?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Back to Top"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0b1120,100:22d3ee&section=footer" width="100%" alt="footer wave">
 
 </div>
