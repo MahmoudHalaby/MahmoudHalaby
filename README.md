@@ -95,16 +95,16 @@
   </tr>
 </table>
 
-### Skill proficiency
+### Core strengths
 
-| Area | Level |
+| Area | What I bring |
 |---|---|
-| Manual / Functional / Regression / Smoke / UAT | ████████████████████ 95% |
-| Security & Business-Logic Testing | █████████████████░░ 85% |
-| API Testing (Postman / Burp / Proxyman) | ████████████████░░░░ 80% |
-| Mobile Testing (iOS / Android) | ███████████████░░░░░ 75% |
-| Defect Lifecycle & RCA | █████████████████░░ 85% |
-| SQL / Database Validation | ████████████░░░░░░░░ 60% |
+| Manual / Functional / Regression / Smoke / UAT | 5+ years across web and mobile |
+| Security & Business-Logic Testing | OWASP Top 10; price manipulation & info disclosure |
+| API Testing | Postman, Burp Suite, Proxyman — request/response manipulation |
+| Mobile Testing | Real and virtual iOS / Android devices |
+| Defect Lifecycle & RCA | Jira, TestOps; live-incident root-cause analysis |
+| Database Validation | SQL querying with DBeaver / MySQL |
 
 ---
 
